@@ -1,0 +1,14 @@
+{
+  "name": "@mvnucs/csc3003-demo",
+  "version": "1.0.0",
+  "description": "A demo to prove installation works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Emmanuel Singletary (emmsingletary@mail.mvnu.edu)",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
