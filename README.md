@@ -3,7 +3,7 @@ Links to download the required tools:
 
 ## MacOS
 [Node.js](https://nodejs.org/dist/v10.15.3/node-v10.15.3.pkg)
-
+[Git](https://sourceforge.net/projects/git-osx-installer/files/git-2.21.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect)
 [Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=620882)
 
 ## Windows
