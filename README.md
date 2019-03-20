@@ -12,3 +12,9 @@ Links to download the required tools:
 [Git](https://github.com/git-for-windows/git/releases/download/v2.21.0.windows.1/Git-2.21.0-64-bit.exe)
 
 [Visual Studio Code](https://aka.ms/win32-x64-user-stable)
+
+## Commands to setup environment
+
+`git config --global user.name "Full Name"`
+
+`git config --global user.email username@mail.mvnu.edu`
